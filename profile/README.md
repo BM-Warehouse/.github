@@ -5,6 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bm-warehouse&color=brightgreen)
 
 ### About Us
+[Presentation Document](https://drive.google.com/file/d/1NWRMXJK1TfNbvt5soX0x1ubAgcx5oFn5/view)
 
 BM WAREHOUSE is an organization created as the final project assignment for Rakamin Academy. We aim to revolutionize the warehousing industry by integrating cutting-edge technology with efficient logistics solutions. We strive to provide seamless warehousing services that optimize storage, streamline operations, and enhance overall supply chain management.
 
